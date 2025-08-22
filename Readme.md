@@ -7,13 +7,11 @@
 
 # Chart for WinForms - Create a Model for a Custom Chart Element
 
-This example illustrates how to create and register a model (the **CustomPointColorizerModel** class in this example) for a custom chart element (the **CustomPointColorizer** class in this example).
+This example creates and registers a model (`CustomPointColorizerModel`) for a custom chart element (`CustomPointColorizer`).
 
-![custom-colorizer-in-designer](images/custom-colorizer-in-designer.png)
+![Custom Colorizer - WinForms Chart Designer, DevExpress](images/custom-colorizer-in-designer.png)
 
-A user configures *chart element model* properties when modifying *chart element* properties in the Chart Designer. Model changes apply to a corresponding chart element when the user clicks **OK**. The Chart Control provides models for existing chart elements. If you create a custom element (a colorizer in this example), you should create and register a model for this element to allow users to edit its options.
-
-See the [Chart Designer for End-Users](https://docs.devexpress.com/WindowsForms/114127/controls-and-libraries/chart-control/end-user-features/chart-designer-for-end-users) help document for more information.
+When a user modifies chart element properties in the Chart Designer, the changes are applied to the corresponding *chart element model*. Model changes take effect on the actual chart element after the user clicks **OK**. The Chart Control includes predefined models for built-in elements. If you create a custom element (for example, a colorizer), you must also create and register a model for this element to allow users to edit its options in the Chart Designer.
 
 ## Files to Review
 
