@@ -19,7 +19,7 @@ A user configures *chart element model* properties when modifying *chart element
 
 See the [Chart Designer for End-Users](https://docs.devexpress.com/WindowsForms/114127/controls-and-libraries/chart-control/end-user-features/chart-designer-for-end-users) help document for more information.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-model-for-custom-chart-element&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-model-for-custom-chart-element&~~~was_helpful=no)
 
