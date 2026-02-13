@@ -26,7 +26,7 @@ When a user modifies chart element properties in the Chart Designer, the changes
 - [ChartColorizerBaseModel](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.Designer.ChartColorizerBaseModel?p=netframework)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-model-for-custom-chart-element&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-model-for-custom-chart-element&~~~was_helpful=no)
 
